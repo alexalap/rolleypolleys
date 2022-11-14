@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/118007312/201768218-7eb10e18-a5f5-45b3
 3. Host it directly from GitHub using [GitHub pages](https://pages.github.com/).
 
 ### Uploading images
-1. Upload transparent PNGs to `assets/image`s - don't put anything in the folder except images you want to use!
+1. Upload transparent PNGs to `assets/images` - don't put anything in the folder except images you want to use!
 2. Images will automatically be added via Jekyll.  Please note GitHub Pages may take a bit of time to update the page. 
 3. Navigate to your GitHub page (e.g. [username].github.io/rolleypolleys)
 
